@@ -19,3 +19,4 @@
 [60.457s] running install_scripts
 [60.468s] Installing comm_node script to /home/agung/vision_drive_ws/install/agv_comm/lib/agv_comm
 [60.468s] writing list of installed files to '/home/agung/vision_drive_ws/build/agv_comm/install.log'
+[90.077s] Invoked command in '/home/agung/vision_drive_ws/src/agv_comm' returned '0': PYTHONPATH=/home/agung/vision_drive_ws/build/agv_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/agv_comm build --build-base /home/agung/vision_drive_ws/build/agv_comm/build install --record /home/agung/vision_drive_ws/build/agv_comm/install.log --install-scripts $base/lib/agv_comm --single-version-externally-managed install_data

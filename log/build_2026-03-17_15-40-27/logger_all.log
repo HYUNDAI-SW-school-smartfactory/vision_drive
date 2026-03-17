@@ -112,3 +112,41 @@
 [30.490s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
 [30.490s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
 [60.595s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/agung/vision_drive_ws/src/agv_comm': PYTHONPATH=/home/agung/vision_drive_ws/build/agv_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/agv_comm build --build-base /home/agung/vision_drive_ws/build/agv_comm/build install --record /home/agung/vision_drive_ws/build/agv_comm/install.log --install-scripts $base/lib/agv_comm --single-version-externally-managed install_data
+[90.372s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/agung/vision_drive_ws/src/agv_comm' returned '0': PYTHONPATH=/home/agung/vision_drive_ws/build/agv_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/agv_comm build --build-base /home/agung/vision_drive_ws/build/agv_comm/build install --record /home/agung/vision_drive_ws/build/agv_comm/install.log --install-scripts $base/lib/agv_comm --single-version-externally-managed install_data
+[90.377s] Level 1:colcon.colcon_core.environment:checking '/home/agung/vision_drive_ws/install/agv_comm' for CMake module files
+[90.378s] Level 1:colcon.colcon_core.environment:checking '/home/agung/vision_drive_ws/install/agv_comm' for CMake config files
+[90.379s] Level 1:colcon.colcon_core.environment:checking '/home/agung/vision_drive_ws/install/agv_comm/lib'
+[90.379s] Level 1:colcon.colcon_core.environment:checking '/home/agung/vision_drive_ws/install/agv_comm/bin'
+[90.380s] Level 1:colcon.colcon_core.environment:checking '/home/agung/vision_drive_ws/install/agv_comm/lib/pkgconfig/agv_comm.pc'
+[90.380s] Level 1:colcon.colcon_core.environment:checking '/home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages'
+[90.380s] Level 1:colcon.colcon_core.shell:create_environment_hook('agv_comm', 'pythonpath')
+[90.380s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/agung/vision_drive_ws/install/agv_comm/share/agv_comm/hook/pythonpath.ps1'
+[90.381s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/agung/vision_drive_ws/install/agv_comm/share/agv_comm/hook/pythonpath.dsv'
+[90.382s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/agung/vision_drive_ws/install/agv_comm/share/agv_comm/hook/pythonpath.sh'
+[90.383s] Level 1:colcon.colcon_core.environment:checking '/home/agung/vision_drive_ws/install/agv_comm/bin'
+[90.383s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(agv_comm)
+[90.383s] INFO:colcon.colcon_core.shell:Creating package script '/home/agung/vision_drive_ws/install/agv_comm/share/agv_comm/package.ps1'
+[90.384s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/agung/vision_drive_ws/install/agv_comm/share/agv_comm/package.dsv'
+[90.384s] INFO:colcon.colcon_core.shell:Creating package script '/home/agung/vision_drive_ws/install/agv_comm/share/agv_comm/package.sh'
+[90.385s] INFO:colcon.colcon_core.shell:Creating package script '/home/agung/vision_drive_ws/install/agv_comm/share/agv_comm/package.bash'
+[90.386s] INFO:colcon.colcon_core.shell:Creating package script '/home/agung/vision_drive_ws/install/agv_comm/share/agv_comm/package.zsh'
+[90.386s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/agung/vision_drive_ws/install/agv_comm/share/colcon-core/packages/agv_comm)
+[90.386s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[90.386s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[90.386s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[90.386s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[90.390s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[90.390s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[90.390s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[90.390s] DEBUG:colcon.colcon_notification.desktop_notification.notify2:Failed to initialize notify2: org.freedesktop.DBus.Error.AccessDenied: Failed to connect to socket /run/user/1000/bus: Operation not permitted
+[90.390s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[90.390s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/agung/vision_drive_ws/install/local_setup.ps1'
+[90.391s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/agung/vision_drive_ws/install/_local_setup_util_ps1.py'
+[90.393s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/agung/vision_drive_ws/install/setup.ps1'
+[90.393s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/agung/vision_drive_ws/install/local_setup.sh'
+[90.394s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/agung/vision_drive_ws/install/_local_setup_util_sh.py'
+[90.394s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/agung/vision_drive_ws/install/setup.sh'
+[90.395s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/agung/vision_drive_ws/install/local_setup.bash'
+[90.395s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/agung/vision_drive_ws/install/setup.bash'
+[90.396s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/agung/vision_drive_ws/install/local_setup.zsh'
+[90.396s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/agung/vision_drive_ws/install/setup.zsh'
