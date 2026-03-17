@@ -1,0 +1,21 @@
+[60.300s] Invoking command in '/home/agung/vision_drive_ws/src/agv_comm': PYTHONPATH=/home/agung/vision_drive_ws/build/agv_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/agv_comm build --build-base /home/agung/vision_drive_ws/build/agv_comm/build install --record /home/agung/vision_drive_ws/build/agv_comm/install.log --install-scripts $base/lib/agv_comm --single-version-externally-managed install_data
+[60.430s] running egg_info
+[60.431s] writing ../../build/agv_comm/agv_comm.egg-info/PKG-INFO
+[60.431s] writing dependency_links to ../../build/agv_comm/agv_comm.egg-info/dependency_links.txt
+[60.431s] writing entry points to ../../build/agv_comm/agv_comm.egg-info/entry_points.txt
+[60.431s] writing requirements to ../../build/agv_comm/agv_comm.egg-info/requires.txt
+[60.431s] writing top-level names to ../../build/agv_comm/agv_comm.egg-info/top_level.txt
+[60.454s] reading manifest file '../../build/agv_comm/agv_comm.egg-info/SOURCES.txt'
+[60.454s] writing manifest file '../../build/agv_comm/agv_comm.egg-info/SOURCES.txt'
+[60.455s] running build
+[60.455s] running build_py
+[60.455s] running install
+[60.455s] running install_lib
+[60.456s] running install_data
+[60.456s] copying package.xml -> /home/agung/vision_drive_ws/install/agv_comm/share/agv_comm
+[60.456s] running install_egg_info
+[60.457s] removing '/home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages/agv_comm-0.0.0-py3.8.egg-info' (and everything under it)
+[60.457s] Copying ../../build/agv_comm/agv_comm.egg-info to /home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages/agv_comm-0.0.0-py3.8.egg-info
+[60.457s] running install_scripts
+[60.468s] Installing comm_node script to /home/agung/vision_drive_ws/install/agv_comm/lib/agv_comm
+[60.468s] writing list of installed files to '/home/agung/vision_drive_ws/build/agv_comm/install.log'

@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/agv_comm/agv_comm.egg-info
+writing ../../build/agv_comm/agv_comm.egg-info/PKG-INFO
+writing dependency_links to ../../build/agv_comm/agv_comm.egg-info/dependency_links.txt
+writing entry points to ../../build/agv_comm/agv_comm.egg-info/entry_points.txt
+writing requirements to ../../build/agv_comm/agv_comm.egg-info/requires.txt
+writing top-level names to ../../build/agv_comm/agv_comm.egg-info/top_level.txt
+writing manifest file '../../build/agv_comm/agv_comm.egg-info/SOURCES.txt'
+reading manifest file '../../build/agv_comm/agv_comm.egg-info/SOURCES.txt'
+writing manifest file '../../build/agv_comm/agv_comm.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/agung/vision_drive_ws/build/agv_comm/build
+creating /home/agung/vision_drive_ws/build/agv_comm/build/lib
+creating /home/agung/vision_drive_ws/build/agv_comm/build/lib/agv_comm
+copying agv_comm/__init__.py -> /home/agung/vision_drive_ws/build/agv_comm/build/lib/agv_comm
+copying agv_comm/comm_node.py -> /home/agung/vision_drive_ws/build/agv_comm/build/lib/agv_comm
+running install
+running install_lib
+creating /home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages/agv_comm
+copying /home/agung/vision_drive_ws/build/agv_comm/build/lib/agv_comm/__init__.py -> /home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages/agv_comm
+copying /home/agung/vision_drive_ws/build/agv_comm/build/lib/agv_comm/comm_node.py -> /home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages/agv_comm
+byte-compiling /home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages/agv_comm/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages/agv_comm/comm_node.py to comm_node.cpython-38.pyc
+running install_data
+creating /home/agung/vision_drive_ws/install/agv_comm/share/ament_index
+creating /home/agung/vision_drive_ws/install/agv_comm/share/ament_index/resource_index
+creating /home/agung/vision_drive_ws/install/agv_comm/share/ament_index/resource_index/packages
+copying resource/agv_comm -> /home/agung/vision_drive_ws/install/agv_comm/share/ament_index/resource_index/packages
+copying package.xml -> /home/agung/vision_drive_ws/install/agv_comm/share/agv_comm
+running install_egg_info
+Copying ../../build/agv_comm/agv_comm.egg-info to /home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages/agv_comm-0.0.0-py3.8.egg-info
+running install_scripts
+Installing comm_node script to /home/agung/vision_drive_ws/install/agv_comm/lib/agv_comm
+writing list of installed files to '/home/agung/vision_drive_ws/build/agv_comm/install.log'

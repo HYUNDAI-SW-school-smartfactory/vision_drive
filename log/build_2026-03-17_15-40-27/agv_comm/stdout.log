@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/agv_comm/agv_comm.egg-info/PKG-INFO
+writing dependency_links to ../../build/agv_comm/agv_comm.egg-info/dependency_links.txt
+writing entry points to ../../build/agv_comm/agv_comm.egg-info/entry_points.txt
+writing requirements to ../../build/agv_comm/agv_comm.egg-info/requires.txt
+writing top-level names to ../../build/agv_comm/agv_comm.egg-info/top_level.txt
+reading manifest file '../../build/agv_comm/agv_comm.egg-info/SOURCES.txt'
+writing manifest file '../../build/agv_comm/agv_comm.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying package.xml -> /home/agung/vision_drive_ws/install/agv_comm/share/agv_comm
+running install_egg_info
+removing '/home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages/agv_comm-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/agv_comm/agv_comm.egg-info to /home/agung/vision_drive_ws/install/agv_comm/lib/python3.8/site-packages/agv_comm-0.0.0-py3.8.egg-info
+running install_scripts
+Installing comm_node script to /home/agung/vision_drive_ws/install/agv_comm/lib/agv_comm
+writing list of installed files to '/home/agung/vision_drive_ws/build/agv_comm/install.log'

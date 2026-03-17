@@ -1,0 +1,33 @@
+[0.394s] Invoking command in '/home/agung/vision_drive_ws/src/agv_comm': PYTHONPATH=/home/agung/vision_drive_ws/src/build/agv_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/agung/vision_drive_ws/src/install/agv_comm/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/agv_comm build --build-base /home/agung/vision_drive_ws/src/build/agv_comm/build install --record /home/agung/vision_drive_ws/src/build/agv_comm/install.log --install-scripts $base/lib/agv_comm --single-version-externally-managed install_data
+[0.504s] running egg_info
+[0.504s] creating ../build/agv_comm/agv_comm.egg-info
+[0.504s] writing ../build/agv_comm/agv_comm.egg-info/PKG-INFO
+[0.504s] writing dependency_links to ../build/agv_comm/agv_comm.egg-info/dependency_links.txt
+[0.504s] writing entry points to ../build/agv_comm/agv_comm.egg-info/entry_points.txt
+[0.504s] writing requirements to ../build/agv_comm/agv_comm.egg-info/requires.txt
+[0.504s] writing top-level names to ../build/agv_comm/agv_comm.egg-info/top_level.txt
+[0.505s] writing manifest file '../build/agv_comm/agv_comm.egg-info/SOURCES.txt'
+[0.522s] reading manifest file '../build/agv_comm/agv_comm.egg-info/SOURCES.txt'
+[0.522s] writing manifest file '../build/agv_comm/agv_comm.egg-info/SOURCES.txt'
+[0.522s] running build
+[0.522s] running build_py
+[0.522s] creating /home/agung/vision_drive_ws/src/build/agv_comm/build
+[0.522s] creating /home/agung/vision_drive_ws/src/build/agv_comm/build/lib
+[0.522s] creating /home/agung/vision_drive_ws/src/build/agv_comm/build/lib/agv_comm
+[0.522s] copying agv_comm/__init__.py -> /home/agung/vision_drive_ws/src/build/agv_comm/build/lib/agv_comm
+[0.522s] running install
+[0.523s] running install_lib
+[0.523s] creating /home/agung/vision_drive_ws/src/install/agv_comm/lib/python3.8/site-packages/agv_comm
+[0.523s] copying /home/agung/vision_drive_ws/src/build/agv_comm/build/lib/agv_comm/__init__.py -> /home/agung/vision_drive_ws/src/install/agv_comm/lib/python3.8/site-packages/agv_comm
+[0.523s] byte-compiling /home/agung/vision_drive_ws/src/install/agv_comm/lib/python3.8/site-packages/agv_comm/__init__.py to __init__.cpython-38.pyc
+[0.524s] running install_data
+[0.524s] creating /home/agung/vision_drive_ws/src/install/agv_comm/share/ament_index
+[0.524s] creating /home/agung/vision_drive_ws/src/install/agv_comm/share/ament_index/resource_index
+[0.524s] creating /home/agung/vision_drive_ws/src/install/agv_comm/share/ament_index/resource_index/packages
+[0.524s] copying resource/agv_comm -> /home/agung/vision_drive_ws/src/install/agv_comm/share/ament_index/resource_index/packages
+[0.524s] copying package.xml -> /home/agung/vision_drive_ws/src/install/agv_comm/share/agv_comm
+[0.524s] running install_egg_info
+[0.525s] Copying ../build/agv_comm/agv_comm.egg-info to /home/agung/vision_drive_ws/src/install/agv_comm/lib/python3.8/site-packages/agv_comm-0.0.0-py3.8.egg-info
+[0.525s] running install_scripts
+[0.535s] writing list of installed files to '/home/agung/vision_drive_ws/src/build/agv_comm/install.log'
+[0.545s] Invoked command in '/home/agung/vision_drive_ws/src/agv_comm' returned '0': PYTHONPATH=/home/agung/vision_drive_ws/src/build/agv_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/agung/vision_drive_ws/src/install/agv_comm/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/agv_comm build --build-base /home/agung/vision_drive_ws/src/build/agv_comm/build install --record /home/agung/vision_drive_ws/src/build/agv_comm/install.log --install-scripts $base/lib/agv_comm --single-version-externally-managed install_data

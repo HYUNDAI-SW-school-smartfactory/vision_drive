@@ -1,0 +1,3 @@
+[console_scripts]
+comm_node = agv_comm.comm_node:main
+

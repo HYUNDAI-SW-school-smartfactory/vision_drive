@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: agv-comm
+Version: 0.0.0
+Summary: ROS2 HTTP communication node for AGV and vision server
+Home-page: UNKNOWN
+Maintainer: agung
+Maintainer-email: jbjokagd@gmail.com
+License: Apache-2.0
+Description: UNKNOWN
+Platform: UNKNOWN
